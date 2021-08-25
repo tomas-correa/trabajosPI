@@ -24,3 +24,4 @@ console.log (`En mi cajon de remeras tengo ${cajonRemeras} y en el de pantalones
 console.log(cajonRemeras)
 console.log(cajonPantalones)
 intercambiarCajones()
+
